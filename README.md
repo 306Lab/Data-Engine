@@ -1,6 +1,6 @@
-# Data-Engine_SAM2
+# Data-Engine_SAM+SAM2
 
-Collect the latest developments of Data Engine(SAM2) and its applications in the field of remote sensing.
+Collect the latest developments of Data Engine(SAM + SAM2) and its applications in the field of remote sensing.
 
 # Paper With Code🔥
 
